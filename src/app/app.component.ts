@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular Application on Fire';
+  name: string = 'Rakhimjon Rustamov';
 }
